@@ -1,0 +1,6 @@
+{
+  "name": "TUHSD Hackathon 2022 - Demo Flask API Deploy",
+  "description": "a simple example of deploying something with heroku",
+  "repository": "https://github.com/retrocede/flask-heroku-deploy",
+  "keywords": ["flask", "python", "TUHSD", "hackathon"]
+}
